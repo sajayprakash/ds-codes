@@ -1,3 +1,13 @@
+/*
+ *  ____  ____  
+ * / ___||  _ \ 
+ * \___ \| |_) | 
+ *  ___) |  __/ 
+ * |____/|_| 
+ * 
+ * SAJAY PRAKASH <sajay.p@pm.me>
+ * 
+ */
 #include <stdio.h>
 #include <stdlib.h>
 struct node
